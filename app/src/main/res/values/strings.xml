@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">chp4practice</string>
+    <string name="app_name">quiz-app</string>
     <string name="todo">TODO</string>
     <string name="welcome_to_java_quiz">Welcome to java Quiz</string>
     <string name="textview">Welcome To java Quiz</string>
